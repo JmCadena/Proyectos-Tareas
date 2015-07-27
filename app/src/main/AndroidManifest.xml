@@ -26,6 +26,10 @@
             android:label="@string/title_activity_login"
             android:windowSoftInputMode="adjustResize|stateVisible" >
         </activity>
+        <activity
+            android:name=".MenuNavegacionActivity"
+            android:label="@string/title_activity_menu_navegacion" >
+        </activity>
     </application>
 
 </manifest>
